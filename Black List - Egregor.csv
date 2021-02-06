@@ -21,5 +21,3 @@ FileSha256,561092877e91f2741ed061cbe7a57d1af552b600c6654ccc588cb6bff7939152,,Ale
 FileSha256,b81d2293b43decd5a401487da952deb32cbb53f118882b97b457a14c67029247,,AlertAndBlock,High,File SHA1 Egregor,Ransomware Egregor,,,,
 FileSha1,163865c4647e5656a7b02aebee4da902145c5548,,AlertAndBlock,Medium,qBot,Blocco qBot,,,,
 IpAddress,49.12.104.241,,AlertAndBlock,High,IP Egregor,Ransomware Egregor,,,,
-IpAddress,91.199.212.52,,AlertAndBlock,High,IP Egregor,Ransomware Egregor,,,,
-DomainName,crt.sectigo.com,,AlertAndBlock,High,Domain Egregor,Ransomware Egregor,,,,
